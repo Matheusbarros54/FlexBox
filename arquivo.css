@@ -1,0 +1,104 @@
+.container1 {
+width: 100%;
+background-color: #D0D3D4;
+height: 100%;
+display: flex;
+flex-direction: row;
+}
+.container2 {
+    margin-top: 1%;
+    width: 100%;
+    background-color: #D0D3D4;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+}
+.container3 {
+    margin-top: 1%;
+    width: 100%;
+    background-color: #D0D3D4;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.container4 {
+    margin-top: 1%;
+    width: 100%;
+    background-color: #D0D3D4;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.container5 {
+    margin-top: 1%;
+    width: 100%;
+    background-color: #D0D3D4;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.container6 {
+    margin-top: 1%;
+    width: 100%;
+    background-color: #D0D3D4;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly; 
+}
+.container-exercicioB {
+    width: 100%;
+    background-color: #D0D3D4;
+    height: 100%;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: end; 
+    
+}
+.container-desafio {
+    width: 100%;
+    background-color: #D0D3D4;
+    height: 100%;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: start;  
+    
+}
+
+.bloco1 {
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    background-color: #63B1BC;
+}
+.bloco2 {
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    background-color: #1F2A44;  
+}
+.bloco3 {
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    background-color: #ED145B;  
+}
+.bloco4 {
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    background-color: #EFB661;  
+}
+

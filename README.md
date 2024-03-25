@@ -1,2 +1,2 @@
-# FlexBox-Exerc-cio
+# FlexBox
 Exercícios sobre Flexbox
